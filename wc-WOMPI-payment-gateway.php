@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WOMPI ON SITE - El Salvador
-Plugin URI: https://getavante.com/plugins
+Plugin URI: https://sramirez.net/plugins
 Description: Plugin WooCommerce para integrar la pasarela de pago Wompi El Salvador directamente en la pagina de checkout
 Version: 1.0
-Author: Avante - El Salvador 
-Author URI: https://getavante.com
+Author: Samuel Ramirez - El Salvador 
+Author URI: https://sramirez.net
 */
 
   // Payment Gateway with WooCommerce infinitechsv
