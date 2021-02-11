@@ -13,7 +13,7 @@ REQUISITOS -PHP version 7.1+ -WordPress 5.4+ -WooCommerce 4.3+
 
 == Installation ==
 
-    Descarga el archivo ZIP con la versión más reciente del plugin [aquí](https://github.com/samuelramirez87/wompi-sv)
+    Descarga el archivo ZIP con la versión más reciente del plugin [aquí](https://github.com/samram87/wompi-sv)
     Ingresar el sitio administrativo de tu WordPress.
     Ingresar a opción de menú de Plugins / Añadir Nuevo / Subir Plugin.
     Buscar el plugin en formato .zip descargado en tu computadora y súbelo como cualquier otro archivo.
